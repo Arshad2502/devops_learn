@@ -1,2 +1,2 @@
 # devops_learn
-this is repo is to learn git
+this repo is to learn git
